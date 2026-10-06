@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🦠 Viral Mutation Engine 🧬
+#    Viral Mutation Engine 
 
-### 🏆 Progetto per il Concorso "Federchimicagiovani"
+###    Progetto per il Concorso "Federchimicagiovani"
 ### **Categoria Biotecnologie Oro**
 
 > *Simulatore avanzato per la creazione e ottimizzazione automatizzata di vaccini tramite algoritmi genetici in C++.*
@@ -11,7 +11,7 @@
 
 ---
 
-## 📌 Panoramica del Progetto
+##    Panoramica del Progetto
 
 **Viral Mutation Engine** è una piattaforma che combina la velocità di calcolo del **C++** con la versatilità visiva di **Python**.
 
