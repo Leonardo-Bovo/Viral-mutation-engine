@@ -1,10 +1,15 @@
-###----------------- Viral Mutation Engine -----------------###
+<div align="center">
 
-         Progetto per il Concorso "Federchimicagiovani" 
-                  Categoria Biotecnologie Oro
+# 🦠 Viral Mutation Engine 🧬
 
-> Simulatore avanzato per la creazione e ottimizzazione automatizzata di vaccini tramite algoritmi genetici in C++.
+### 🏆 Progetto per il Concorso "Federchimicagiovani"
+### **Categoria Biotecnologie Oro**
 
+> *Simulatore avanzato per la creazione e ottimizzazione automatizzata di vaccini tramite algoritmi genetici in C++.*
+
+</div>
+
+---
 
 ## 📌 Panoramica del Progetto
 
