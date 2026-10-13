@@ -1,8 +1,19 @@
-﻿build/
+# Build C++ (CMake)
+build/
+cmake-build-*/
+
+# Oggetti compilati e librerie
+*.o
+*.obj
 *.so
 *.pyd
-*.vscode
+*.dll
+
+# Python
 __pycache__/
-__pycache__/
-__pycache__/
-__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Configurazioni IDE personali (path locali)
+.vscode/
