@@ -1,0 +1,19 @@
+# --- Dashboard Interattiva & Grafici ---
+streamlit>=1.30.0
+plotly>=5.18.0
+matplotlib>=3.8.0
+
+# --- Analisi Dati & Bioinformatica ---
+pandas>=2.1.0
+numpy>=1.26.0
+biopython>=1.83
+
+# --- Download & Gestione Dataset (Hugging Face) ---
+datasets>=2.16.0
+huggingface_hub>=0.20.0
+
+# --- Integrazione C++ / Python ---
+pybind11>=2.11.1
+
+//pip command:
+python -m pip install streamlit pandas numpy plotly matplotlib datasets huggingface-hub pybind11 biopython
